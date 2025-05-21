@@ -44,6 +44,7 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 > Given that the three numbers are not equal to each other)
 
 ### _Answer_
+[Answer_Ex3](flowcharts\Ex3.png)
 
 ## Exercise 4
 
