@@ -68,4 +68,4 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
-![Answer_Ex5](/flowcharts/Ex5.png)
+![Answer_Ex5](/flowcharts/Ex5_updated.png)
