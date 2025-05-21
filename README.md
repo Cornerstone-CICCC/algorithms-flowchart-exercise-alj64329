@@ -35,6 +35,7 @@ Pseudocode:
 - Print A
 
 ### _Answer_
+[Answer_Ex2](flowcharts\Ex2.png)
 
 ## Exercise 3
 
