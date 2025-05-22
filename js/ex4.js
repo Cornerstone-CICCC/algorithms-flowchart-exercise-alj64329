@@ -1,6 +1,6 @@
 //ex4
-let a = 2
-let b = 3
+let a = 5
+let b = 5
 let c = 5
 let isTriangle = false
 
